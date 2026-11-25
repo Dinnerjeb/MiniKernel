@@ -69,7 +69,8 @@ Rather than relying entirely on existing operating systems, this project explore
 
 ## Screenshots
 
-Screenshots of the kernel and its command interface will be added as development progresses.
+### Interface
+![MiniKernel Boot Screen](MiniKernel.png)
 
 ## Project Status
 
@@ -84,4 +85,4 @@ License information will be added.
 
 ---
 
-**Built with curiosity and a pangolin. 🐾**
+**Built with curiosity and a pangolin.**
