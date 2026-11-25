@@ -44,7 +44,7 @@ You can also use VirtualBox or other virtualization software that supports boota
 
 **Note:** Running experimental operating systems in a virtual machine is recommended.
 
-## 🛠️ Development Goals
+## Development Goals
 
 Planned areas of development:
 
