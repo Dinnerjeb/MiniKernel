@@ -30,7 +30,7 @@ Currently implemented:
 | `about` | Displays kernel information |
 | `reboot` | Restarts the system |
 
-## Running OpenKernelOS
+## Running MiniKernel
 
 You can run the bootable ISO using a virtual machine.
 
