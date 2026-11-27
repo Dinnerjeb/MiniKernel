@@ -37,7 +37,7 @@ You can run the bootable ISO using a virtual machine.
 For example, with QEMU:
 
 ```bash
-qemu-system-x86_64 -cdrom minikernel.iso
+qemu-system-x86_32 -cdrom minikernel.iso
 ```
 
 You can also use VirtualBox or other virtualization software that supports bootable ISO images.
@@ -76,7 +76,7 @@ Rather than relying entirely on existing operating systems, this project explore
 
 - Version: `0.1`
 - Stage: Experimental / Early Development
-- Architecture: x86-64
+- Architecture: x86-32
 - Bootable ISO: Available
 
 ## License
